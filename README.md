@@ -1,2 +1,2 @@
 # learning-css
-A collection of my css practice projects and exercises
+This is the the practice showing  what I have learnt so far. I'm done with HTML and still exploring CSS. This exercise was quite easy, applying margins and paddings, colors, fonts and other properties was not a big deal. However I sruggled to understand the gradients. It took me time to know exactly what linear gradients and radial gradients work and how to apply a gradient  animation . Today I'm confident of doing basic designs whether for colors or other aspects.

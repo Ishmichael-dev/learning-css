@@ -1,0 +1,101 @@
+.back {
+    margin-bottom: 30px;
+    padding-bottom: 0px;
+}
+.dark-matter {
+    color: hex(#553EAF);
+}
+.psalms {
+    color: red;
+    margin-top: 80px;
+    padding-bottom: px;
+    
+}
+.pos {
+    text-align: center;
+    font-size: 25px;
+}
+.item {
+    text-align: center;
+    color: hsla(139, 50%, 31%, 0.265);
+    margin-top: px;
+    padding-top: 00px;
+    margin-bottom: 30px;
+}
+.butt {
+    display: inline-block;
+    background-color: rgba(172, 255, 47, 0.365);
+    margin-right: 950px;
+    padding-bottom: 40;
+}
+.res {
+    display:inline-block;
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+}
+.prev {
+    margin-right: 40px;
+    background-color: aqua;
+}
+.what {
+    border: 5px solid purple;
+}
+@keyframes gradientAnimation {
+    0% {
+      background: radial-gradient(ellipse, grey, palegreen);
+    }
+    50% {
+      background: radial-gradient(ellipse, palegreen, grey);
+    }
+    100% {
+      background: radial-gradient(ellipse, grey, palegreen);
+    }
+}
+
+
+
+  
+  div {
+    background: linear-gradient(270deg, grey, palegreen, lightblue);
+    background-size: 400% 400%;
+    animation: moveGradient 5s ease infinite;
+  }
+  
+  
+  .buum {
+    font-size: larger;
+    animation: gradientAnimation 5s infinite alternate;
+  }
+  
+.para {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.billi {
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+#yuhu {
+    font-size: large;
+}
+.background {
+    background-image: url("./side view.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+}
+input:focus {
+    border: 3px solid rgb(50, 86, 205);
+}
+#qualifications {
+    background-color: blue;
+    cursor: not-allowed
+}
+#hobbies {
+    display: block;
+    width: 100%;
+
+}
