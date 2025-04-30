@@ -28,21 +28,6 @@
     margin-right: 950px;
     padding-bottom: 40;
 }
-.res {
-    display:inline-block;
-    margin-left: 40px;
-    margin-right: 30px;
-    margin-bottom: 30px;
-    background-color: black;
-    color: white;
-}
-.prev {
-    margin-right: 40px;
-    background-color: aqua;
-}
-.what {
-    border: 5px solid purple;
-}
 @keyframes gradientAnimation {
     0% {
       background: radial-gradient(ellipse, grey, palegreen);
@@ -83,19 +68,33 @@
     font-size: large;
 }
 .background {
-    background-image: url("./side view.jpg");
+    background-color: rgba(5, 0, 139, 0.381);
     background-size: cover;
     background-repeat: repeat-x;
 }
-input:focus {
-    border: 3px solid rgb(50, 86, 205);
-}
-#qualifications {
-    background-color: blue;
-    cursor: not-allowed
-}
-#hobbies {
-    display: block;
+form {
+        width: 80%; /* make it fill 80% of the screen */
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #1b1b32;
+        color:#ccc;
+input {
     width: 100%;
+    height: 2em;
+}
 
+
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #1b1b32;
+
+}
+body {
+    background-color: #1b1b32;
 }

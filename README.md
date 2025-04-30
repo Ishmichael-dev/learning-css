@@ -1,2 +1,8 @@
-# learning-css
-This is the the practice showing  what I have learnt so far. I'm done with HTML and still exploring CSS. This exercise was quite easy, applying margins and paddings, colors, fonts and other properties was not a big deal. However I sruggled to understand the gradients. It took me time to know exactly what linear gradients and radial gradients work and how to apply a gradient  animation . Today I'm confident of doing basic designs whether for colors or other aspects.
+learning-css
+
+This is my first project in which I'm trying to be familiar with web-development trying to know how different features are created with codes . In this project I'm much focus on css to know how to sttyle different elements.
+
+what I have used
+
+ I used HTML and  CSS only to design my new form but I will continually upgrade it until it's fully finished.
+
